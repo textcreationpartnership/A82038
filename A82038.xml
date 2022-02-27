@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and engagement of the officers and souldiers of Col. Ingoldsbies regiment for the present government, whereunto is added two letters, of a great fight between Col. Jones and the Marq. of Ormond, with the routing of Ormonds whole body of horse, and pursuing him to Waterford, the surrender of Ross and other garrisons to the Lord Lievt. Cromwell, since the taking of Waxford, with the besieging of Duncanon. Also an act made at Edenburgh for receiving all persons to the sacrament, that were formerly debarred from it, the expectation they have of the Prince, and the Earl of Mourtons joyning with the euemy [sic] in the North.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82038</idno>
+            <idno type="STC">Wing D529</idno>
+            <idno type="STC">Thomason E576_3</idno>
+            <idno type="EEBO-CITATION">50805914</idno>
+            <idno type="OCLC">ocm 50805914</idno>
+            <idno type="VID">165463</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165463)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E576[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and engagement of the officers and souldiers of Col. Ingoldsbies regiment for the present government, whereunto is added two letters, of a great fight between Col. Jones and the Marq. of Ormond, with the routing of Ormonds whole body of horse, and pursuing him to Waterford, the surrender of Ross and other garrisons to the Lord Lievt. Cromwell, since the taking of Waxford, with the besieging of Duncanon. Also an act made at Edenburgh for receiving all persons to the sacrament, that were formerly debarred from it, the expectation they have of the Prince, and the Earl of Mourtons joyning with the euemy [sic] in the North.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob 30".</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ingoldsby, Henry, --  Sir, 1622-1701.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Jones, Michael, d. 1649.</term>
+               <term>Ireland --  History --  1649-1660 --  Sources.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165463:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND ENGAGEMENT Of the Officers and ſouldiers of Col. Ingoldsbies Regiment for the preſent Government, whereunto is added two Letters.</p>
+            <p>OF A great fight between Col. Jones and the Marq. of Ormond, with the routing of Ormonds whole bo<g ref="char:EOLhyphen"/>dy of horſe, and purſuing him to Waterford, The ſurrender of Roſs and other Garriſons to the Lord Lievt. Cromwell, ſince the taking of Waxford, with the beſieging of Duncanon.</p>
+            <p>ALSO An Act made at Edenburgh for receiving all perſons to the Sacrament, that were formerly debarred from it, the expectation they have of the Prince, and the Earl of Mourtons joy<g ref="char:EOLhyphen"/>ning with the enemy in the North.</p>
+            <p>
+               <add>Octob 30</add>London, Printed by <hi>B. A.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165463:2"/>
+            <pb n="1" facs="tcp:165463:2"/>
+            <head>The free and cordiall RESOLVTIONS And ENGAGEMENTS OF The Officers and Souldiers of the eight Companies of Col. <hi>Ingoldsbies</hi> Regiment, now reſiding in the Garriſons both of Briſtol, and Oxford, of the 29 of September, 1649.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there is a great and horrid deſign now on foot for the raiſing a new war and bringing the Nation in bloud again by which combuſtion, and confuſion, to take an opportunity to ſet up the Princes intereſt in this Nation, to which end they have
+<pb n="2" facs="tcp:165463:3"/>and do uſe all endeavours, to raiſe diſcontents in the hearts of the people and ſpecially of the private ſoul<g ref="char:EOLhyphen"/>diers, caſting unjuſt aſperſions upon the Parliament thereby, to render them odious as alſo repreſenting the Generall and his Councell ol Officers to be Ty<g ref="char:EOLhyphen"/>rannicall and unfaithfull, perſwading the people and ſouldiers, on theſe and the like grounds, to diſown the Parliament, to caſt off the Lord Generall and his Councell, dividing the ſouldiers from their Officers, and ſo to be without Parliamentary and Military, Authority, for the carrying on of which deſign, they have ſent their Agents abroad with traiterous and rayling Pamphlets to all the Regiments of the Army, ſome of them being of late among us, have by their wicked deluſions ſo farre enſnared and engaged that had not God wonderfully prevented, we had been a means of involving the whole Nation in bloud, and had not our noble Generall been mercifull unto us, ſome of us had deſervedly loſt our lives with deluſi<g ref="char:EOLhyphen"/>ons and deceipts; we do beſeech our fellow Souldiers of the Army, to be carefull leaſt they be enſnared as ſome of us were, and for the prevention of the like miſchief among us for the future, we do declare, that ſuch traiterous plots we do utterly abhorre and diſ<g ref="char:EOLhyphen"/>claim looking on ſuch men as our greateſt enemies, that ſhall endeavour to ſeduce us to them, and ſhall if at any time we find ſuch amongſt us, apprehend and perſecute them to the utmoſt, and do likewiſe freely and really engage, to continue our due obedience to the Parliament, our Generall, and all others, now in juſt Authority over us, and do bleſſe God for the good
+<pb n="3" facs="tcp:165463:3"/>we &amp; this Nation do enjoy, by their acts of Piety and juſtice, &amp; wiſe managing of the publik affairs, for the eſtabliſhment of peace upon good and ſure grounds, in the proſecution of which things we do engage to ſtand or fall with them, againſt all attempts whatſoe<g ref="char:EOLhyphen"/>ver, end by whomſoever.</p>
+            <closer>
+               <signed>Signed by the Collonel, Lievtenant Collonel, and all other Officers and Souldiers of the ſaid Regiment.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:165463:4"/>
+            <head>A Letter of the last newes from Ireland, as followeth.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT hath pleaſed God to bleſſe our Army with ſucceſſe, that ſince the taking of the Gariſon of Wexford (of which I beleeve you have already re<g ref="char:EOLhyphen"/>ceived the particulars) there is ſurrendred into our poſſeſſion, Roſſe (another Port-town of great conſe<g ref="char:EOLhyphen"/>quence and ſome other Gariſons. It is moſt certain there were but two men loſt at the taking of Wex<g ref="char:EOLhyphen"/>ford, and it is as true, that Colonell Jones hath had a great fight with Ormond, and beaten his whole party of Horſe, himſelf being in the head of them, After the rout, Colonell Jones had the purſuit of them to Waterford, by which meanes the Enemies Horſe, which was the only ſtrength that Ormond had, are very much ſhattered and broken. Some additionall foot from England would be very uſeful for this ſer<g ref="char:EOLhyphen"/>vice, for that a great number of our men are as uſe<g ref="char:EOLhyphen"/>full to be be left behind in Gariſons, as others re for the ſupporting of a ſtanding Army in the field. We underſtand there be ſix companies of Colonell Fen<g ref="char:EOLhyphen"/>wicks, and four of Colonell Moots, ready to be tranſ<g ref="char:EOLhyphen"/>ported, we hope they will be ſupplyed with ſhipping, rud be ready to go over by the next fair wind; part of their proviſions are already put aboard. Our ar<g ref="char:EOLhyphen"/>my is now ſet down before Duncanon.</p>
+            <closer>
+               <dateline>
+                  <date>October 27. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:165463:4"/>
+            <head>A Letter from Newcaſtle.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>OUr Garriſon is in a good condition, ſo is Car<g ref="char:EOLhyphen"/>liſle and Barwick, we have this week, been very much troubled with a Witch-finder, that hath ſeized upon twenty ſeven women in this town for being witches, but being queſtioned he hath privately gotten away, and it is probable that if there be any witch in England he is one. Our Regiment was drawn forth on Tueſday and the Officers and Souldiers did unani<g ref="char:EOLhyphen"/>mouſly ſubſcribe to the new engagement. For the news from Scotland it is not much, but a copy of my Letter is as followeth.</hi>
+            </p>
+            <p>If our King come hither, I hope <hi>I</hi> ſhall be ſhortly with you, and we are now beginning to be in expectati<g ref="char:EOLhyphen"/>on what newes from him, though little is is here at the preſent. Our Miniſters here fly very high againſt the Sectaries. From the North little, only that the Earle of Mourton is joyned with them of Orkenay, and it is re<g ref="char:EOLhyphen"/>ported they ſhould be raiſing men, but uncertain: many of our horſe are drawn northward, for ſecuring of thoſe parts, there is newes in the printed Papers of the taking
+<pb n="6" facs="tcp:165463:5"/>the Scots ſhip with Ammunition and landing men in <hi>Caithneſs</hi> is not true; from Ireland we hear that Collonel Aconet with a party of about fifty lying in Antrim, were cut off by Col. Hambleton and the town hurnt, here is a flying report that Belfaſt is beſieged. There is an act of the Presbytery in Edenburgh lately come forth, giving liberty to all which were debar'd from the Sacrament by an act of the Kirk, to come in and give ſatisfaction pro<g ref="char:EOLhyphen"/>ferring thereupon, that they ſhall be admitted, to the next Sacrament the ninth of Novemb. next, ſo that it is very probable moſt of our ſinfull engagers will be recei<g ref="char:EOLhyphen"/>ved into the fellowſhip of the Church,</p>
+            <closer>
+               <dateline>Newcaſtle <date>24. Octob. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>29 Octob. 1649.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>J.R.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
